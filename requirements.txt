@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+pandas
+pymysql
+SQLAlchemy
+Faker
+redis
+numpy
+openpyxl
+reportlab
+requests
+pytest
