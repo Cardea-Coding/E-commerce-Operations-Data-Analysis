@@ -1,4 +1,4 @@
-# 电商运营数据分析系统（毕业设计）
+# 电商运营数据分析系统
 
 技术栈：`Python + Flask + MySQL + Redis + Pandas + ECharts`
 
@@ -94,7 +94,7 @@
 - 系统使用说明：`docs/user_guide.md`
 - 测试与优化报告：`docs/phase5_test_report.md`
 
-## 后续可选优化（如继续迭代）
+## 扩展方向
 1. 接入真实淘宝开放平台签名调用与增量拉取
 2. 引入 Celery/APScheduer 做生产级调度与重试
 3. 加入权限管理（管理员/运营/访客）与审计日志
